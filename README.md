@@ -38,3 +38,21 @@ The dataset used in this project is designed for sentiment analysis and can be f
 Feel free to explore the project and dive into the code to understand how it works. If you have any questions, want to collaborate, or provide feedback, please reach out.
 
 Let's work together to improve mental health through technology! 😊
+
+
+## Results
+
+Our depression detection model produced the following results:
+
+- **Accuracy**: 0.98
+- **Classification Report**:
+```
+                precision   recall   f1-score   support
+
+           0       0.99      0.98      0.99      1614
+           1       0.93      0.96      0.95       449
+
+    accuracy                           0.98      2063
+   macro avg       0.96      0.97      0.97      2063
+weighted avg       0.98      0.98      0.98      2063
+```
