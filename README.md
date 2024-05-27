@@ -1,11 +1,11 @@
 
-This project leverages Natural Language Processing techniques to analyze text data and determine whether it indicates signs of depression. By using a dataset of twits and applying machine learning, we aim to predict whether a message exhibits signs of depression.
+This project covers different Natural Language Processing (NLP) techniques to analyze text data and determine whether it indicates signs of depression. By using a dataset of twits and applying different techniques, I tried to predict whether a message exhibits signs of depression.
 
 ## Code Overview
 
-Our project uses Python and the scikit-learn library to build a depression detection model. Here's a brief overview of the key steps:
+The project uses Python and the scikit-learn library to build a depression detection model. Here's a brief overview of the key steps:
 
-1. **Import Necessary Libraries**: We start by importing the required Python libraries for data processing and machine learning.
+1. **Libraries**: We start by importing the required Python libraries for data processing and machine learning.
 
 2. **Load the Sentiment Analysis Dataset**: We load a dataset specifically prepared for sentiment analysis.
 
